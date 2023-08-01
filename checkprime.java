@@ -62,5 +62,6 @@ public class checkprime {
     }
     public static void main(String args[]) {
        dectobin(5);
+       System.out.println("function done!!");
     }
 }
